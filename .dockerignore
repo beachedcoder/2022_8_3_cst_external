@@ -1,0 +1,10 @@
+.gitignore
+.git
+test
+node_modules
+*.sql
+*.yaml
+*.log
+yaml
+log
+tmp
